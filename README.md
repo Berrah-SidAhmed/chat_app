@@ -1,16 +1,33 @@
-# chat_app
+# CHAT APP
 
-A new Flutter project.
+Introducing my new Firebase-based Chat App, a real-time messaging application built with Flutter and Firebase. This app allows users to sign up, sign in, and instantly connect with others through a clean and intuitive user interface.
 
-## Getting Started
+Upon creating an account, each user gets a personal profile that can be used to initiate chats with other registered users. The app displays the last message preview in the chat list, making it easy to follow up on recent conversations.
 
-This project is a starting point for a Flutter application.
+Key Features:
+	•	 User Authentication (Sign Up / Sign In) using Firebase Auth
+	•	 Real-time Chat functionality powered by Firebase Firestore
+	•	 User Profiles created at registration for personalized chatting
+	•	 Light/Dark Theme Support managed by the Provider package and hive
+	•	 Data Persistence to save and manage user data effectively
+	•	 Simple and Responsive UI for a smooth user experience
+	•	 Last Message Preview to help users track conversations easily
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+#  Technologies Used
+• Flutter (Dart)
+• Provider (for state management)
+• Flutter firebase
+• Flutter hive_ce & hive_ce_flutter
+
+
+
+#  Screenshots
+<img src="assets/img/record.gif" height="350em" />
+
+
+
+
+## 📌 Feel free to contribute, fork, and give a star ⭐!
